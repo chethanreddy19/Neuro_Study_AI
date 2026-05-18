@@ -1,4 +1,4 @@
-# 🎓 AI-Powered Study Assistant Chatbot
+#  AI-Powered Study Assistant Chatbot
 
 > **Hackathon Project** | Theme: *AI Agents Unleashed – Building the Future of Automation*
 
@@ -6,18 +6,18 @@ An intelligent conversational chatbot that helps university students study smart
 
 ---
 
-## ✨ Features
+##  Features
 
-- 💬 **Chat Interface** — Clean, ChatGPT-style conversation UI
-- 🧠 **Conversation Memory** — Remembers the last 5 messages for context-aware replies
-- 📝 **Notes Summarizer** — Paste lecture notes and get a bullet-point summary instantly
-- 🎯 **Study-Focused AI** — System-prompted to explain concepts simply and encouragingly
-- 🔑 **Secure API Key Input** — Enter your key in the sidebar (never stored)
-- 🗑️ **Clear Chat** — Reset conversation history with one click
+-  **Chat Interface** — Clean, ChatGPT-style conversation UI
+-  **Conversation Memory** — Remembers the last 5 messages for context-aware replies
+-  **Notes Summarizer** — Paste lecture notes and get a bullet-point summary instantly
+-  **Study-Focused AI** — System-prompted to explain concepts simply and encouragingly
+-  **Secure API Key Input** — Enter your key in the sidebar (never stored)
+-  **Clear Chat** — Reset conversation history with one click
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -29,7 +29,7 @@ An intelligent conversational chatbot that helps university students study smart
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repository
 ```bash
@@ -68,15 +68,9 @@ The app opens at **http://localhost:8501** in your browser.
 
 ---
 
-## 📸 Screenshots
 
-| Chat Interface | Notes Summarizer |
-|---|---|
-| *(add screenshot)* | *(add screenshot)* |
 
----
-
-## 💡 Example Prompts
+##  Example Prompts
 
 - *"Explain Object-Oriented Programming in simple terms"*
 - *"What is the difference between RAM and ROM?"*
@@ -85,19 +79,19 @@ The app opens at **http://localhost:8501** in your browser.
 
 ---
 
-## 🔐 Security Note
+##  Security Note
 
 Your API key is entered in the sidebar and used only for that session. It is **never stored** in code or files. Make sure your `.env` file is listed in `.gitignore` before pushing to GitHub.
 
 ---
 
-## 👤 Author
+##  Author
 
 Built with ❤️ for the university hackathon.
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — free to use and modify.
 "# NEURO-STUDY-AI" 
