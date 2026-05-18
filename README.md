@@ -100,3 +100,4 @@ Built with ❤️ for the university hackathon.
 ## 📄 License
 
 MIT License — free to use and modify.
+"# NEURO-STUDY-AI" 
